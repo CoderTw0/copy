@@ -1,8 +1,8 @@
-package com.example.commands
+package com.github.codertw0.copy.commands
 
-import com.example.ExampleMod
-import com.example.commands.SimpleCommand.ProcessCommandRunnable
-import com.example.utils.ChatUtils
+import com.github.codertw0.copy.ExampleMod
+import com.github.codertw0.copy.commands.SimpleCommand.ProcessCommandRunnable
+import com.github.codertw0.copy.utils.ChatUtils
 import net.minecraft.command.ICommandSender
 import net.minecraft.util.BlockPos
 import net.minecraftforge.client.ClientCommandHandler
